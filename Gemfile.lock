@@ -118,5 +118,8 @@ DEPENDENCIES
   middleman-livereload
   middleman-sprockets (>= 4.0.0)
 
+RUBY VERSION
+   ruby 2.6.5p114
+
 BUNDLED WITH
-   1.17.1
+   1.17.2
